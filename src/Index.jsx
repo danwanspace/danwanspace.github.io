@@ -12,7 +12,7 @@ function Index() {
         </downloadUrls>
       </inner>
     </homeBody>
-    <homeFooter use="a" href="https://beian.miit.gov.cn/" target="_blank">浙ICP备19011407号-2</homeFooter>
+    <homeFooter block block-padding-20px use="a" href="https://beian.miit.gov.cn/" target="_blank">浙ICP备19011407号-2</homeFooter>
   </container>
 }
 
