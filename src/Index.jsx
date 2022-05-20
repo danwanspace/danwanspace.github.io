@@ -8,7 +8,7 @@ function Index() {
         <img src="https://danwan-cdn.oss-cn-hangzhou.aliyuncs.com/global/logo.png" />
         <downloadUrls block block-margin-left-50px>
           <version use="a" block>for mac</version>
-          <version use="a" block block-margin-top-50px>for windows 10</version>
+          <version use="a" block block-margin-top-50px>for windows 10/11</version>
         </downloadUrls>
       </inner>
     </homeBody>
