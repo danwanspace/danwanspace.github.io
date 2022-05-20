@@ -20,5 +20,6 @@ module.exports = defineConfig({
   },
   build: {
     target: 'chrome100',
+    outDir: 'docs'
   },
 })
